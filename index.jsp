@@ -24,7 +24,7 @@
 
 <html>
 <head>
-<title>SwiffChart Generator JSP Samples for IBM WebSphere Application Server (UNIX version)</title>
+<title>SwiffChart Generator JSP Samples for IBM WebSphere Application Server (REDHAT version)</title>
 <style>
 .BodyStyle { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; }
 .HeaderStyle { font-family: Verdana, Arial, Helvetica, sans-serif; }
